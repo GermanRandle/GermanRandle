@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GermanRandle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm German 👋
+18 y.o. CT ITMO student, Java Back-end developer.
 
-<!---
-GermanRandle/GermanRandle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Technical Stack
+*   Main language - Java
+*   Basic knowlegde of C++/Python
+*   Worked with Git
+
+### My opensource projects
+
+Coming soon
