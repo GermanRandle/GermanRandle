@@ -4,7 +4,7 @@
 ## 🛠 Technical Stack
 *   Main language - Java
 *   Basic knowlegde of C++/Python
-*   Worked with Git
+*   Worked with Git, JUnit, OpenMP
 
 ### My opensource projects
 
