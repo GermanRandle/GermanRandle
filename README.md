@@ -7,4 +7,8 @@
 
 ### My opensource projects
 
-Coming soon
+https://github.com/GermanRandle/contrast-openmp
+
+https://github.com/GermanRandle/expression-parser
+
+https://github.com/GermanRandle/elf-disassembler
