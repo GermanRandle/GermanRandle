@@ -1,10 +1,9 @@
 # Hi, I'm German 👋
-18 y.o. CT ITMO student, Java Back-end developer.
+18 y.o. CT ITMO student.
 
 ## 🛠 Technical Stack
-*   Main language - Java
-*   Basic knowlegde of C++/Python
-*   Worked with Git, JUnit, OpenMP
+*   Languages: Java, C++, Python, Bash, SQL
+*   Technology: Git, LaTeX, JUnit, OpenMP
 
 ### My opensource projects
 
