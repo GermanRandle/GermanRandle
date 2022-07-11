@@ -7,8 +7,18 @@
 
 ### My opensource projects
 
-https://github.com/GermanRandle/contrast-openmp
+#### Java
 
 https://github.com/GermanRandle/expression-parser
 
 https://github.com/GermanRandle/elf-disassembler
+
+https://github.com/GermanRandle/prog-intro-solutions
+
+#### C++
+
+https://github.com/GermanRandle/contrast-openmp
+
+https://github.com/GermanRandle/big-integer
+
+https://github.com/GermanRandle/socow-vector
