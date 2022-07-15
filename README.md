@@ -1,5 +1,5 @@
 # Hi, I'm German 👋
-18 y.o. M3239 CT ITMO student.
+2nd year CS student at ITMO university.
 
 ## 🛠 Technical Stack
 *   Languages: Java, C++, Python, Bash, SQL
