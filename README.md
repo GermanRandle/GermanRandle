@@ -2,8 +2,8 @@
 2nd year CS student at ITMO university.
 
 ## 🛠 Technical Stack
-*   Languages: Java, C++, Python, Bash, SQL
-*   Technology: Git, LaTeX, JUnit, OpenMP
+*   Languages: Java/Kotlin, C++, Python, SQL
+*   Technology: Git, LaTeX, JUnit
 
 ### My opensource projects
 
