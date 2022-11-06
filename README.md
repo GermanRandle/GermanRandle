@@ -2,8 +2,8 @@
 2nd year CS student at ITMO university.
 
 ## 🛠 Technical Stack
-*   Languages: Java/Kotlin, C++, Python, SQL
-*   Technology: Git, LaTeX, JUnit
+*   Languages: Java, Kotlin, C++
+*   Technology: Spring, PostgreSQL, Kafka, Liquibase, Lombok, Git, JUnit, Testcontainers
 
 ### My opensource projects
 
@@ -13,7 +13,7 @@ https://github.com/GermanRandle/expression-parser
 
 https://github.com/GermanRandle/elf-disassembler
 
-https://github.com/GermanRandle/prog-intro-solutions
+https://github.com/kurbskaya/RecipeSearch
 
 #### C++
 
