@@ -14,6 +14,7 @@
 - [Big integer](https://github.com/GermanRandle/big-integer) (C++)
 - [std::vector with optimizations](https://github.com/GermanRandle/socow-vector) (C++)
 - [std::set](https://github.com/GermanRandle/set-exam) (C++)
+- [«RecipeSearch» mobile app](https://github.com/kurbskaya/RecipeSearch) (Kotlin, Android, w/team)
 
 ### 2021
 
