@@ -2,7 +2,7 @@
 
 ### 2024
 
-- [«Playground»](https://github.com/GermanRandle/playground) (Web Development)
+- [«Playground»](https://github.com/GermanRandle/playground) (Web Development) (WIP)
 - [kNN algorithm](https://github.com/GermanRandle/k-nearest-neighbors) (Python, ML)
 
 ### 2023
