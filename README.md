@@ -1,3 +1,5 @@
+My resume: https://github.com/GermanRandle/GermanRandle/blob/main/CV_Andosov.pdf
+
 # My projects
 
 ### 2024
