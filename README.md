@@ -4,7 +4,6 @@ My resume: https://github.com/GermanRandle/GermanRandle/blob/main/CV_Andosov.pdf
 
 ### 2024
 
-- [Vault Manager](https://github.com/GermanRandle/vault-manager) (Web development, Kotlin)
 - [kNN algorithm](https://github.com/GermanRandle/k-nearest-neighbors) (Python, ML)
 
 ### 2023
