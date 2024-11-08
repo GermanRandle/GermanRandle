@@ -4,6 +4,7 @@ My resume: https://github.com/GermanRandle/GermanRandle/blob/main/CV_Andosov.pdf
 
 ### 2024
 
+- [Parallel quick sort](https://github.com/GermanRandle/quick-sort-parallel) (Kotlin)
 - [kNN algorithm](https://github.com/GermanRandle/k-nearest-neighbors) (Python, ML)
 
 ### 2023
