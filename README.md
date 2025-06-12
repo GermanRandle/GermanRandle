@@ -4,7 +4,7 @@ My resume: https://github.com/GermanRandle/GermanRandle/blob/main/CV_Andosov.pdf
 
 ### 2025
 
-- [Bachelor's thesis](https://github.com/GermanRandle/bachelors-thesis) (Python, CI/CD)
+- [Bachelor's thesis](https://github.com/GermanRandle/bachelor-thesis) (Python, CI/CD)
 
 ### 2024
 
