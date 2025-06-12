@@ -2,6 +2,10 @@ My resume: https://github.com/GermanRandle/GermanRandle/blob/main/CV_Andosov.pdf
 
 # My projects
 
+### 2025
+
+- [Bachelor's thesis](https://github.com/GermanRandle/bachelors-thesis)
+
 ### 2024
 
 - [Parallel BFS](https://github.com/GermanRandle/parallel-bfs) (Kotlin)
